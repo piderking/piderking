@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Peter Bowman</h1>
 <h3 align="center">An unsocial, code addicted teen with TD1.</h3>
 
-- 🔭 I’m currently working on **solving diabetes**
+- 🔭 I’m currently working on **solving diabetes with machine learning**
 
 - 🌱 I’m currently learning **mathematics behind neural networks, mainly rnns**
 
