@@ -13,7 +13,7 @@
 
 - 💬 Ask me about **neural networks, any code, willing to help anyone**
 
-- 📫 How to reach me **discord: petey#3112*
+- 📫 How to reach me **discord:** *petey#3112*
 
 - 📄 Know about my experiences [https://piderking.github.io/resume](https://piderking.github.io/resume)
 
