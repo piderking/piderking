@@ -9,7 +9,7 @@
 
 - 🤝 I’m looking for help with **furthering my knowledge into mathematics**
 
-- 👨‍💻 All of my projects are available at [https://piderking.github.io](https://piderking.github.io)
+- 👨‍💻 All of my projects are available at [https://piderking.github.io](https://piderking.github.io/piderking)
 
 - 💬 Ask me about **neural networks, any code, willing to help anyone**
 
