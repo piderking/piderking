@@ -15,9 +15,7 @@
 
 - 📫 How to reach me **discord:** *petey#3112*
 
-- 📄 Know about my experiences [https://piderking.github.io/resume](https://piderking.github.io/resume)
-
-- ⚡ Fun fact **I haven't gone to a party in two years**
+- 📄 Know about my experiences [https://piderking.github.io/piderking/resume](https://piderking.github.io/resume)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
