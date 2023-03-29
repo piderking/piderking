@@ -1,0 +1,43 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@300&display=swap');
+@import "https://cdn.jsdelivr.net/npm/bulma@0.9.4/css/bulma.min.css";
+profile {
+    -webkit-filter: grayscale(100%); /* Safari 6.0 - 9.0 */
+    filter: grayscale(100%);
+}
+body {
+    background-color: black;
+    color: hsl(0, 0%, 21%);
+    font-family: 'Poppins', sans-serif;
+    margin: 0px;
+
+}
+h2:hover {
+    color: hsl(0, 2%, 43%);
+    filter: blur(1px)
+
+}
+@import url("https://fonts.googleapis.com/css?family=Raleway:900&display=swap");
+#containerL {
+    position: absolute;
+    margin: auto;
+    width: 100vw;
+    height: 80pt;
+    top: 0;
+    bottom: 0;
+
+    filter: url(#threshold) blur(0.6px);
+}
+
+#text1,
+#text2 {
+    position: absolute;
+    width: 100%;
+    display: inline-block;
+
+    font-family: "Poppins", sans-serif;
+    font-size: 50pt;
+    color: hsl(0, 1%, 28%);
+    text-align: left;
+    
+    user-select: none;
+}
