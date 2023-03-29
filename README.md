@@ -9,13 +9,13 @@
 
 - 🤝 I’m looking for help with **furthering my knowledge into mathematics**
 
-- 👨‍💻 All of my projects are available at [https://piderking.github.io](https://piderking.github.io/piderking)
+- 👨‍💻 All of my projects are available at [https://piderking.github.io](https://piderking.github.io/piderking/server)
 
 - 💬 Ask me about **neural networks, any code, willing to help anyone**
 
 - 📫 How to reach me **discord:** *petey#3112*
 
-- 📄 Know about my experiences [https://piderking.github.io/piderking/resume](https://piderking.github.io/resume)
+- 📄 Know about my experiences [https://piderking.github.io/piderking/server/resume](https://piderking.github.io/resume)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
