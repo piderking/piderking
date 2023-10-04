@@ -1,0 +1,102 @@
+<html>
+  <head>
+    <script type="text/javascript" src="https://www.gstatic.com/charts/loader.js"></script>
+    
+    <script type="text/javascript">
+      let header = [{ type: 'string', id: 'Kindgom' },  { type: 'string', id: 'Chapter-Person' }, { type: 'date', id: 'Start' }, { type: 'date', id: 'End' },]
+
+      function convertToTable(dator){
+        let newData = [
+          header
+        ]
+        let groups = dator.split("|")
+        for (let i = 0; i < groups.length -1; i++) {
+          let splt = groups[i].split("!")
+          addRowd(splt[0], splt[1], splt[2], splt[3], )
+        }
+        return newData
+      }
+      var stored = localStorage['data'];
+      let data = [
+          header,
+          ]
+      // if (stored) data = convertToTable(stored);
+      let chart = null
+      google.charts.load('current', {'packages':['timeline']});
+      google.charts.setOnLoadCallback(drawChart);
+
+      function drawChart() {
+        var container = document.getElementById('timeline');
+        chart = new google.visualization.Timeline(container);
+        visualize(data)
+
+        
+      }
+      function visualize(array){
+        dt = google.visualization.arrayToDataTable(array)
+        chart.clearChart()
+        chart.draw(dt)
+      }
+
+ 
+      function addRow(){
+        data[data.length] = [document.getElementById("addRowInput").value, `${document.getElementById("chapters").value} <> ${document.getElementById("people").value}`, new Date(document.getElementById("startYear").value, 1, 1), new Date(document.getElementById("endYear").value, 1, 1)]
+        visualize(data)
+      }
+      function save(){
+        // localStorage['data'] = google.visualization.dataTableToCsv(google.visualization.arrayToDataTable(data));
+        // let text = ""
+
+        // for (let i = 1; i < data.length; i++) {
+          // text += `${data[i][0]}!${data[i][1]}!${data[i][2].getFullYear()}!${data[i][3].getFullYear()}|`
+          // console.log(text)
+        // }
+        console.log(JSON.stringify(data))
+        document.getElementById("save").innerText += JSON.stringify(data)
+        localStorage['data'] = JSON.stringify(data);
+        alert("Data Saved to Session")
+      }
+
+    </script>
+  </head>
+  <body>
+    <div id="timeline" style="height: 30rem;"></div>
+    <div>
+      <div>
+        <p>Kingdom</p>
+        <input id="addRowInput" />
+      </div>
+      <div>
+        <p>Start and End Year</p>
+        <input id="startYear"/>
+        <input id="endYear"/>
+      </div>
+      <div>
+        <p>People Involved</p>
+        <input id="people"/>
+      </div>
+      <div>
+        <p>Chapter</p>
+        <select name="chapters" id="chapters">
+          <option value="22">22</option>
+          <option value="23">23</option>
+          <option value="24">24</option>
+          <option value="25">25</option>
+          <option value="26">26</option>
+          <option value="27">27</option>
+        </select>
+      </div>
+      <br>
+      <button onclick="addRow()">Add or Remove Kingdom</button>
+    </div>
+    <div>
+    </div>
+    <div>
+      <button onclick="save()">Save</button>
+      <h2>Copy this to save</h2>
+      <p id="save">
+      </p>
+    </div>
+
+  </body>
+</html>
