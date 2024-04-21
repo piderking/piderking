@@ -1,11 +1,10 @@
-<h1 align="center">Hi 👋, I'm Peter Bowman</h1>
-<h3 align="center">An unsocial, code addicted teen with TD1.</h3>
+<h1 align="center">Hi 👋, I'm piderking</h1>
 
 - 🔭 I’m currently working on **solving diabetes with machine learning**
 
-- 🌱 I’m currently learning **mathematics behind neural networks, mainly rnns**
+- 🌱 I’m currently learning **mathematics behind neural networks**
 
-- 👯 I’m looking to collaborate on **anything**
+- 👯 I’m looking to collaborate on **nothing** hit me up for help tho
 
 - 🤝 I’m looking for help with **furthering my knowledge into mathematics**
 
