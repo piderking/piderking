@@ -8,7 +8,7 @@
 
 - 📫 Reachable on Email. Developmment: *piderking8@gmail.com* or Professional Inquiries: *peter.m.bowman.08@gmail.com*
 
-- 📄 Know about my experiences [Resume](https://piderking.github.io/piderking/server/resume/resume.pdf)
+- 📄 Know about my experiences at my [resume](https://piderking.github.io/piderking/server/resume.pdf)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
