@@ -1,16 +1,14 @@
 <h1 align="center">Hi 👋, I'm piderking</h1>
 
-- 🔭 I’m currently working on **solving diabetes with machine learning**
+- 🔭 I’m currently working on bio-technic artifical intelligence research 
 
-- 🌱 I’m currently learning **mathematics behind neural networks**
-
-- 👨‍💻 All of my projects are available at [https://piderking.github.io](https://piderking.github.io/piderking/server) -- Outdated
+- 👨‍💻 All of my projects are available on [my repository page](https://github.com/piderking) or [portfolio](about:blank)
 
 - 💬 Ask me about **neural networks, any code, willing to help anyone**
 
-- 📫 How to reach me **discord:** *petey#3112*
+- 📫 Reachable on Email. Developmment: *piderking8@gmail.com* or Professional Inquiries: *peter.m.bowman.08@gmail.com*
 
-- 📄 Know about my experiences [https://piderking.github.io/piderking/server/resume](https://piderking.github.io/piderking/server/resume)
+- 📄 Know about my experiences [Resume](https://piderking.github.io/piderking/server/resume/resume.pdf)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
