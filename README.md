@@ -1,20 +1,63 @@
-<h1 align="center">Hi 👋, I'm piderking</h1>
 
-- 🔭 I’m currently working on bio-technic artifical intelligence research 
+# Hi there, I'm Peter 👋
 
-- 👨‍💻 All of my projects are available on [my repository page](https://github.com/piderking) or [portfolio](about:blank)
+I'm **Piderking**, a passionate developer who's been coding for **6+ years**.  
+Currently, I'm building **[RML](https://github.com/piderking/rml)** — a **Rust** machine learning library aimed at matching Python implementations like **PyTorch** 🚀.
 
-- 💬 Ask me about **neural networks, any code, willing to help anyone**
+---
 
-- 📫 Reachable on Email. Developmment: *piderking8@gmail.com* or Professional Inquiries: *peter.m.bowman.08@gmail.com*
+## 🚀 Skills & Interests
 
-- 📄 Know about my experiences at my [resume](https://piderking.github.io/piderking/server/resume.pdf)
+- **Python** — 5 years
+- **Rust** — 1 year
+- **TensorFlow** — 2 years
+- **PyTorch** — 2 years
+- **NumPy** — 3 years
+- **Linux (Power User)**
+- **Docker**
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://dev.to/@piderking" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="@piderking" height="30" width="40" /></a>
-<a href="https://discord.gg/petey#3112" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="petey#3112" height="30" width="40" /></a>
-</p>
+---
 
-<!--START_SECTION:waka-->
-<!--END_SECTION:waka-->
+## 📈 My Coding Stats
+
+![Coding Activity](https://wakatime.com/share/@c9536339-58ce-4229-9236-44a5f3ea413a/d795cbbb-3089-4575-81a0-cec1d16930f4.png)
+
+
+---
+
+## 🛠 Tech Stack
+
+- **Python**: 5 years
+- **Rust**: 1 year
+- **NumPy**: 3 years
+- **TensorFlow & PyTorch**: 2 years
+- **Other tools**: Git, Docker, Linux, VS Code
+
+---
+
+## 🏆 GitHub Stats
+
+![piderking's Stats](https://github-readme-stats.vercel.app/api?username=piderking&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)
+
+![piderking's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=piderking&theme=vue-dark&show_icons=true&hide_border=true&layout=compact)
+
+![GitHub Streak](https://streak-stats.demolab.com/?user=piderking&theme=vue-dark&hide_border=true)
+
+---
+
+## 📫 Contact Me
+
+- 📧 Email: [peter.m.bowman.08@gmail.com](mailto:peter.m.bowman.08@gmail.com)
+
+---
+
+> “Code is like humor. When you have to explain it, it’s bad.” — Cory House
+
+---
+
+# ✨ Setup Reminder
+Make sure:
+- The repo is named exactly **`piderking`**.
+- Your README file is called **`README.md`** inside that repo.
+
+Then it'll show on your public GitHub profile page!
