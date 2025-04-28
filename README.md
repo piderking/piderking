@@ -38,8 +38,6 @@ Currently, I'm building **[RML](https://github.com/piderking/rml)** — a **Rust
 ## 🏆 GitHub Stats
 
 ![piderking's Stats](https://github-readme-stats.vercel.app/api?username=piderking&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)
-
-<a href="https://wakatime.com/@c9536339-58ce-4229-9236-44a5f3ea413a"><img src="https://wakatime.com/badge/user/c9536339-58ce-4229-9236-44a5f3ea413a.svg" alt="Total time coded since Dec 22 2022" /></a>
 ![GitHub Streak](https://streak-stats.demolab.com/?user=piderking&theme=vue-dark&hide_border=true)
 
 ---
