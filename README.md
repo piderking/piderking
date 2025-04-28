@@ -21,7 +21,7 @@ Currently, I'm building **[RML](https://github.com/piderking/rml)** — a **Rust
 ## 📈 My Coding Stats
 
 ![Coding Activity](https://wakatime.com/share/@c9536339-58ce-4229-9236-44a5f3ea413a/d795cbbb-3089-4575-81a0-cec1d16930f4.png)
-
+![wakatime](https://wakatime.com/badge/user/c9536339-58ce-4229-9236-44a5f3ea413a.svg)
 
 ---
 
@@ -39,8 +39,7 @@ Currently, I'm building **[RML](https://github.com/piderking/rml)** — a **Rust
 
 ![piderking's Stats](https://github-readme-stats.vercel.app/api?username=piderking&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)
 
-![piderking's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=piderking&theme=vue-dark&show_icons=true&hide_border=true&layout=compact)
-
+<a href="https://wakatime.com/@c9536339-58ce-4229-9236-44a5f3ea413a"><img src="https://wakatime.com/badge/user/c9536339-58ce-4229-9236-44a5f3ea413a.svg" alt="Total time coded since Dec 22 2022" /></a>
 ![GitHub Streak](https://streak-stats.demolab.com/?user=piderking&theme=vue-dark&hide_border=true)
 
 ---
