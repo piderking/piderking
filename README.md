@@ -49,15 +49,5 @@ Currently, I'm building **[RML](https://github.com/piderking/rml)** — a **Rust
 
 - 📧 Email: [peter.m.bowman.08@gmail.com](mailto:peter.m.bowman.08@gmail.com)
 
----
 
-> “Code is like humor. When you have to explain it, it’s bad.” — Cory House
 
----
-
-# ✨ Setup Reminder
-Make sure:
-- The repo is named exactly **`piderking`**.
-- Your README file is called **`README.md`** inside that repo.
-
-Then it'll show on your public GitHub profile page!
