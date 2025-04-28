@@ -1,7 +1,7 @@
 
 # Hi there, I'm Peter 👋
 
-I'm **Piderking**, a passionate developer who's been coding for **6+ years**.  
+I'm **piderking**, a passionate developer who's been coding for **6+ years**.  
 Currently, I'm building **[RML](https://github.com/piderking/rml)** — a **Rust** machine learning library aimed at matching Python implementations like **PyTorch** 🚀.
 
 ---
