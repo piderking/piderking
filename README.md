@@ -2,18 +2,19 @@
 # Hi there, I'm Peter 👋
 
 I'm **piderking**, a passionate developer who's been coding for **6+ years**.  
-Currently, I'm building **[RML](https://github.com/piderking/rml)** — a **Rust** machine learning library aimed at matching Python implementations like **PyTorch** 🚀.
+Currently, I'm building working on a few projects. 
+- [MTX](https://github.com/piderking/mtx) for compiling rust code into mathematical functions.
+- [VGMT](https://github.com/piderking/vgmt) for predicting blood sugar
 
 ---
 
 ## 🚀 Skills & Interests
 
 - **Python** — 5 years
-- **Rust** — 1 year
+- **Rust** — 2 year
 - **TensorFlow** — 2 years
 - **PyTorch** — 2 years
 - **NumPy** — 3 years
-- **Linux (Power User)**
 - **Docker**
 
 ---
